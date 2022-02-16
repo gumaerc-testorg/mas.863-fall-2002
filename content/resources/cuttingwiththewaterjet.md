@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Instructions for cutting with a water-jet.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/mas-863-how-to-make-almost-anything-fall-2002/0a8d239f6c65551e894546ff6a628260_cuttingwiththewaterjet.pdf
+file: /media/courses/mas-863-how-to-make-almost-anything-fall-2002/0a8d239f6c65551e894546ff6a628260_cuttingwiththewaterjet.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Cutting with the Water-Jet
 uid: 0a8d239f-6c65-551e-8945-46ff6a628260
