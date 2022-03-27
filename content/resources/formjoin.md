@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 00bf8984-ec36-0ec4-2e24-39d6a2a83c11
 resourcetype: Document
 title: Your all-in-one page of links for "Forming and Joining"
 uid: 2071c206-9ba2-4449-7ffb-d2539e1dfe24

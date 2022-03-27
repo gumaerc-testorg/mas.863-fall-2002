@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 00bf8984-ec36-0ec4-2e24-39d6a2a83c11
 resourcetype: Document
 title: '3D modeling: thing''s I''ve learned'
 uid: 16772624-f289-fcd2-758a-13e0fc1181c8

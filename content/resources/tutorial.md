@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 00bf8984-ec36-0ec4-2e24-39d6a2a83c11
 resourcetype: Document
 title: Laser Cutter Tutorial
 uid: 78462856-911a-f901-4061-9a360dd22b1d
