@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics along with tutorials
+  and help files.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -29,7 +31,7 @@ Design Tools
 
 *   Cobalt Tutorial
 *   3D Modelling Diatribe: Should I use Rhino or Cobalt? (Hayes Raffle)
-*   Folding Tutorial: How to Model a Polyhedron by "Folding Up" Flat Polygons ([PDF]({{< baseurl >}}/resources/3dmodeling))
+*   Folding Tutorial: How to Model a Polyhedron by "Folding Up" Flat Polygons ({{% resource_link 16772624-f289-fcd2-758a-13e0fc1181c8 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -44,8 +46,8 @@ NC Knife Cutting
 
 
 *   Converting Gerber to HPGL FILES (by C. Scott Ananian)
-*   Laser Cutter Tutorial ([PDF]({{< baseurl >}}/resources/tutorial))
-*   Water Cutter Tutorial ([PDF]({{< baseurl >}}/resources/cuttingwiththewaterget))
+*   Laser Cutter Tutorial ({{% resource_link 78462856-911a-f901-4061-9a360dd22b1d "PDF" %}})
+*   Water Cutter Tutorial ({{% resource_link 1eae7c00-9747-e3f0-5db1-b251ff7bdabd "PDF" %}})
 *   Manuals for the Laser Cutter and Water Cutter
 *   Rasterizing Images on the Laser Cutter
 
@@ -78,7 +80,7 @@ Machining
 {{< tdopen >}}
 
 
-*   Waterjet: Cutting Glass ([PDF]({{< baseurl >}}/resources/cuttingwiththewaterjet))
+*   Waterjet: Cutting Glass ({{% resource_link 0a8d239f-6c65-551e-8945-46ff6a628260 "PDF" %}})
 *   Modela Instructions
 *   3D Printer Instructions
 *   John's FabLab Tutorials
@@ -111,7 +113,7 @@ NC Machining
 {{< tdopen >}}
 
 
-*   Waterjet: Cutting Glass ([PDF]({{< baseurl >}}/resources/cuttingwiththewaterjet))
+*   Waterjet: Cutting Glass ({{% resource_link 0a8d239f-6c65-551e-8945-46ff6a628260 "PDF" %}})
 *   Modela Instructions
 *   3D Printer Instructions
 *   John's FabLab Tutorials
@@ -143,7 +145,7 @@ Forming and Joining
 {{< tdopen >}}
 
 
-*   Handy Page of Links to Forming and Joining Resources ([PDF]({{< baseurl >}}/resources/formjoin))
+*   Handy Page of Links to Forming and Joining Resources ({{% resource_link 2071c206-9ba2-4449-7ffb-d2539e1dfe24 "PDF" %}})
 
 
 {{< tdclose >}}

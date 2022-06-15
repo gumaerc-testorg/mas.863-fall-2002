@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the assignments for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -39,7 +40,7 @@ Sawhney
 Direkova
 {{< tdclose >}}
 {{< tdopen >}}
-Assignment 1 ([PDF]({{< baseurl >}}/resources/assignment1))
+Assignment 1 ({{% resource_link 01c11b48-1d0b-e0fa-2e5e-1c6d40f51eed "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -56,7 +57,7 @@ DiFrancesco
 Mohan
 {{< tdclose >}}
 {{< tdopen >}}
-Assignment 2 ([PDF]({{< baseurl >}}/resources/assignment2))
+Assignment 2 ({{% resource_link 22b70c6c-9b2b-8d8d-1d40-202dab949180 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -73,7 +74,7 @@ Lyon
 Merrill
 {{< tdclose >}}
 {{< tdopen >}}
-Assignment 3 ([PDF]({{< baseurl >}}/resources/assignment3))
+Assignment 3 ({{% resource_link 583264d3-70a8-ca0d-eb3f-3e3588e781f0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -90,7 +91,7 @@ DiFrancesco
 Miller
 {{< tdclose >}}
 {{< tdopen >}}
-Assignment 4 ([PDF]({{< baseurl >}}/resources/assignment4))
+Assignment 4 ({{% resource_link 6c971e88-05ff-da73-9bb8-c1ea5d438542 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -108,7 +109,7 @@ Benbasat
 Sung
 {{< tdclose >}}
 {{< tdopen >}}
-Assignment 5 ([PDF]({{< baseurl >}}/resources/assignment5))
+Assignment 5 ({{% resource_link d7fc286a-4ee1-37cf-40a3-b789985b61e4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -126,7 +127,7 @@ DiFrancesco
 Steinfeld
 {{< tdclose >}}
 {{< tdopen >}}
-Assignment 6 ([PDF]({{< baseurl >}}/resources/assignment6))
+Assignment 6 ({{% resource_link 36ebf1a6-ad3b-193a-1737-b83561e0b461 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -143,7 +144,7 @@ Lyon
 Ananian
 {{< tdclose >}}
 {{< tdopen >}}
-Assignment 7 ([PDF]({{< baseurl >}}/resources/assignment7))
+Assignment 7 ({{% resource_link cd0ad333-a066-267b-bcc3-d484a1d52a22 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -160,7 +161,7 @@ McKinley
 Raffle
 {{< tdclose >}}
 {{< tdopen >}}
-Assignment 8 ([PDF]({{< baseurl >}}/resources/assignment8))
+Assignment 8 ({{% resource_link 7e677b3b-5b8f-69b2-5b26-7547c2074301 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -194,7 +195,7 @@ DiFrancesco
 Parkes
 {{< tdclose >}}
 {{< tdopen >}}
-Assignment 10 ([PDF]({{< baseurl >}}/resources/assignment10))
+Assignment 10 ({{% resource_link 0cf3bd12-f287-162c-f4f1-22c4c2e592a5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

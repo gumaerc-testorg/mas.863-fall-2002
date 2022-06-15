@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides links to helpful websites on circuit design and
+  MIDI.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources

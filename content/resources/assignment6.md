@@ -2,7 +2,7 @@
 content_type: resource
 description: Assignment to create a web page to describe and illustrate a planned
   semester project.
-file: /media/courses/mas-863-how-to-make-almost-anything-fall-2002/36ebf1a6ad3b193a1737b83561e0b461_assignment6.pdf
+file: /courses/mas-863-how-to-make-almost-anything-fall-2002/36ebf1a6ad3b193a1737b83561e0b461_assignment6.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -14,3 +14,5 @@ resourcetype: Document
 title: Assignment 6
 uid: 36ebf1a6-ad3b-193a-1737-b83561e0b461
 ---
+Assignment to create a web page to describe and illustrate a planned semester project.
+

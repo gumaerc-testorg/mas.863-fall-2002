@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This syllabus section provides a course overview, information on meeting
+  times and topics, and links to useful external web sites.  '
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
