@@ -10,10 +10,10 @@ image_metadata:
   credit: ''
   image-alt: Photo of the MIT Media Lab waterjet cutter at work.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Waterjet Cutter (thumbnail)
 uid: 5dd9ca3e-0475-99a9-f172-beadb00a3654
 ---
 Photo of the MIT Media Lab waterjet cutter at work. (Courtesy of Prof. Neil Gershenfeld and Prof. Issac Chuang.)
-

@@ -5,6 +5,7 @@ file: /courses/mas-863-how-to-make-almost-anything-fall-2002/16772624f289fcd2758
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: '3D modeling: thing''s I''ve learned'
 uid: 16772624-f289-fcd2-758a-13e0fc1181c8
 ---
 Tips on computer modeling.
-

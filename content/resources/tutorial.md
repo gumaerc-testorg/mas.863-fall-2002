@@ -5,6 +5,7 @@ file: /courses/mas-863-how-to-make-almost-anything-fall-2002/78462856911af901406
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Laser Cutter Tutorial
 uid: 78462856-911a-f901-4061-9a360dd22b1d
 ---
 Tutorial on the use of a laser cutter.
-
