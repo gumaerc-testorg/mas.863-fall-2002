@@ -3,6 +3,7 @@ content_type: resource
 description: Photo of the MIT Media Lab waterjet cutter at work. (Courtesy of Prof.
   Neil Gershenfeld and Prof. Issac Chuang.)
 file: /courses/mas-863-how-to-make-almost-anything-fall-2002/5dd9ca3e047599a9f172beadb00a3654_mas-863f02-th.jpg
+file_size: 5442
 file_type: image/jpeg
 image_metadata:
   caption: Photo of the MIT Media Lab waterjet cutter at work. (Courtesy of Prof.

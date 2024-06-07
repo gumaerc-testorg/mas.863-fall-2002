@@ -2,6 +2,7 @@
 content_type: resource
 description: Tips on computer modeling.
 file: /courses/mas-863-how-to-make-almost-anything-fall-2002/16772624f289fcd2758a13e0fc1181c8_3dmodeling.pdf
+file_size: 1177164
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
