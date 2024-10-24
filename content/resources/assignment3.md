@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Assignment to machine a self-inverting top.
-file: /courses/mas-863-how-to-make-almost-anything-fall-2002/583264d370a8ca0deb3f3e3588e781f0_assignment3.pdf
+file: /ol-ocw-studio-app/courses/mas-863-how-to-make-almost-anything-fall-2002/583264d370a8ca0deb3f3e3588e781f0_assignment3.pdf
 file_size: 49709
 file_type: application/pdf
 learning_resource_types:

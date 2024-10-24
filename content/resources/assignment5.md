@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Assignment to produce some kind of packaging.
-file: /courses/mas-863-how-to-make-almost-anything-fall-2002/d7fc286a4ee137cf40a3b789985b61e4_assignment5.pdf
+file: /ol-ocw-studio-app/courses/mas-863-how-to-make-almost-anything-fall-2002/d7fc286a4ee137cf40a3b789985b61e4_assignment5.pdf
 file_size: 37344
 file_type: application/pdf
 learning_resource_types:
