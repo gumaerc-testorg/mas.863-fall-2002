@@ -2,7 +2,7 @@
 content_type: resource
 description: Assignment to create a web page to describe and illustrate a planned
   semester project.
-file: /ol-ocw-studio-app/courses/mas-863-how-to-make-almost-anything-fall-2002/36ebf1a6ad3b193a1737b83561e0b461_assignment6.pdf
+file: /courses/mas-863-how-to-make-almost-anything-fall-2002/36ebf1a6ad3b193a1737b83561e0b461_assignment6.pdf
 file_size: 28570
 file_type: application/pdf
 learning_resource_types:

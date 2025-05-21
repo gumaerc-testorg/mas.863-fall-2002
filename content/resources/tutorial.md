@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Tutorial on the use of a laser cutter.
-file: /ol-ocw-studio-app/courses/mas-863-how-to-make-almost-anything-fall-2002/78462856911af90140619a360dd22b1d_tutorial.pdf
+file: /courses/mas-863-how-to-make-almost-anything-fall-2002/78462856911af90140619a360dd22b1d_tutorial.pdf
 file_size: 741067
 file_type: application/pdf
 learning_resource_types:

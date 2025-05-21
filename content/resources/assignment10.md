@@ -2,7 +2,7 @@
 content_type: resource
 description: Assignment to  implement a one- or two-player game using a field-programmable
   gate array.
-file: /ol-ocw-studio-app/courses/mas-863-how-to-make-almost-anything-fall-2002/0cf3bd12f287162cf4f122c4c2e592a5_assignment10.pdf
+file: /courses/mas-863-how-to-make-almost-anything-fall-2002/0cf3bd12f287162cf4f122c4c2e592a5_assignment10.pdf
 file_size: 55437
 file_type: application/pdf
 learning_resource_types:

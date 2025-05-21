@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Instructions for cutting with a water-jet.
-file: /ol-ocw-studio-app/courses/mas-863-how-to-make-almost-anything-fall-2002/0a8d239f6c65551e894546ff6a628260_cuttingwiththewaterjet.pdf
+file: /courses/mas-863-how-to-make-almost-anything-fall-2002/0a8d239f6c65551e894546ff6a628260_cuttingwiththewaterjet.pdf
 file_size: 91857
 file_type: application/pdf
 learning_resource_types:
