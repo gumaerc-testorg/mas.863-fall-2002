@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Assignment on wireless communication.
-file: /ol-ocw-studio-app/courses/mas-863-how-to-make-almost-anything-fall-2002/7e677b3b5b8f69b25b267547c2074301_assignment8.pdf
+file: /courses/mas-863-how-to-make-almost-anything-fall-2002/7e677b3b5b8f69b25b267547c2074301_assignment8.pdf
 file_size: 30935
 file_type: application/pdf
 learning_resource_types:
