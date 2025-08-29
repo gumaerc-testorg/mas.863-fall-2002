@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Links to external websites on forming and joining.
-file: /courses/mas-863-how-to-make-almost-anything-fall-2002/2071c2069ba244497ffbd2539e1dfe24_formjoin.pdf
+file: /ol-ocw-studio-app/courses/mas-863-how-to-make-almost-anything-fall-2002/2071c2069ba244497ffbd2539e1dfe24_formjoin.pdf
 file_size: 66154
 file_type: application/pdf
 learning_resource_types:
