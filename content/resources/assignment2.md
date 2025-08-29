@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Machining assignment.
-file: /courses/mas-863-how-to-make-almost-anything-fall-2002/22b70c6c9b2b8d8d1d40202dab949180_assignment2.pdf
+file: /ol-ocw-studio-app/courses/mas-863-how-to-make-almost-anything-fall-2002/22b70c6c9b2b8d8d1d40202dab949180_assignment2.pdf
 file_size: 141451
 file_type: application/pdf
 learning_resource_types:
