@@ -57,13 +57,13 @@ Problem 1: How to drive stepmotors?
 *   Driving Stepmotors (by Axel Kilian)
 *   Color Coding of Resistors (by Saoirse Higgins)
 *   Web Sites Used for Help with Circuit Design (by David Merril, Kyle Steinfeld):
-    *   [http://www.findchips.com/](http://www.findchips.com/)
-    *   [http://www.digikey.com/](http://www.digikey.com/) (Voted "The Best Source")
-    *   [http://www.TI.com](http://www.ti.com/)
+    *   {{% resource_link "acf362f7-5244-4c13-baf1-25f9f31eff91" "http://www.findchips.com/" %}}
+    *   {{% resource_link "4c557830-9ebe-4196-8c7b-1be510f10494" "http://www.digikey.com/" %}} (Voted "The Best Source")
+    *   {{% resource_link "e7d549ed-0ca3-4cc5-85ab-a6ab50115957" "http://www.TI.com" %}}
 *   Midi Stuff:
-    *   [https://www.tigoe.com/pcomp/code/picbasic-pro/161/](https://www.tigoe.com/pcomp/code/picbasic-pro/161/)
-    *   [http://www.midi.org/about-midi/aboutmidi3.shtml](https://www.midi.org/)
-    *   [http://www.cs.princeton.edu/courses/archive/fall02/cs436/](http://www.cs.princeton.edu/courses/archive/fall02/cs436/)
+    *   {{% resource_link "266e8565-feec-4464-bf5f-62760b1cefbb" "https://www.tigoe.com/pcomp/code/picbasic-pro/161/" %}}
+    *   {{% resource_link "19ec99cd-dea5-4cd1-8dfc-2a322210fc1e" "http://www.midi.org/about-midi/aboutmidi3.shtml" %}}
+    *   {{% resource_link "845d78eb-73fc-41e5-9a6e-3dceccff3699" "http://www.cs.princeton.edu/courses/archive/fall02/cs436/" %}}
 *   Useful Book: _Practical Electronics for Inventors_ (Good Theory Explanations, Bad Schematics)
 
 ### 3D Printing and NC Machining
